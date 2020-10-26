@@ -4,6 +4,7 @@
  * Released under the MIT License.
  * development   开发
  * production    生产
+ * test
  /*
  *  兼容 amd cmd 模块写法
  * */
